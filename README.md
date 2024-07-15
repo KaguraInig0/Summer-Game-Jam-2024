@@ -1,7 +1,7 @@
 ## Project
 - Unity 2022.3.33f1 LTS
 - Universal Render Pipeline
-- 3D Templates
+- 3D Template
 - [Blender](https://www.blender.org/download/) (_If some assets are not loading especially the .blend files, please try installing this one_)
 
 ## Dependencies Used
